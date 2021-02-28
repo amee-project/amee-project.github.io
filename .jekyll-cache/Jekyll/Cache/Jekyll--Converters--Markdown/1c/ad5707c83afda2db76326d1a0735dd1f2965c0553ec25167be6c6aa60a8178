@@ -1,0 +1,14 @@
+I"�<p>This is the home of the AMEE Project (Autonomous Maze Environment Explorer). AMEE was featured in a presentation at the Schloss Dagstuhl (https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072)[Seminar #21072] - (http://amundsen.com/talks/2021-02-dagstuhl/)[“Autonomous Agents on the Web”] in February of 2021.</p>
+
+<p>AMEE is a “maze” agent – a simple autonomous agent that can navigate two-dimensional simple mazes of arbirary size. The (http://amundsen.com/examples/misc/maze-client.html)[original maze agent] was created in 2012 as a personal project to explore hypermedia-driven autonomous bots. It was based on a custom hypermedia format: (http://amundsen.com/media-types/maze/)[Maze+XML]. Check out the repo for additional resources including XML and RDF maze servers and a handful of Maze-compliant agents.</p>
+
+<p>– @mamund</p>
+
+<!--
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+![_config.yml](/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+-->
+:ET

@@ -19,4 +19,9 @@ The defintion for the word _understand_ is "perceive the intended meaning of (wo
 
 Meaning is tied to intellect and reasoning. Our understanding depends on our intelligence and our ability to reason about what we see and hear around us. 
 
-We often about about "intelligent agents" or training agents to "understand" new commands. But, in reality most machines do not grasp the meaning of things. They cannot reason about their surroundings. This level of agency is usually called ["artificial general intelligence"](https://en.wikipedia.org/wiki/Artificial_general_intelligence) or AGI. 
+We sometimes talk about "intelligent agents" or training agents to "understand" new commands. But, in reality machines do not grasp the meaning of things. They cannot reason about their surroundings. This level of agency is usually called ["artificial general intelligence"](https://en.wikipedia.org/wiki/Artificial_general_intelligence) or AGI. And, as of this writing anyway, AGI is still only a hypothetical possibility.
+
+> The good news is that, even without _understanding_ we can enhance machine agents by way of _inference_. But I'll save that for a future post. -- @mamund 
+
+### Leveraging Recognition
+The kind of experiments I'm working on with the [AMEE Project](http://amee-project.github.io) are the ones that leverage an agent's ability to recognize elements in the environment and, when appropriate, act on those elements. That means designing and implementing agents that have the ability to recognize things. That is, the ability to "see again" things it already knows about.  

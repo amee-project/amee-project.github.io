@@ -21,7 +21,12 @@ Meaning is tied to intellect and reasoning. Our understanding depends on our int
 
 We sometimes talk about "intelligent agents" or training agents to "understand" new commands. But, in reality machines do not grasp the meaning of things. They cannot reason about their surroundings. This level of agency is usually called ["artificial general intelligence"](https://en.wikipedia.org/wiki/Artificial_general_intelligence) or AGI. And, as of this writing anyway, AGI is still only a hypothetical possibility.
 
-> The good news is that, even without _understanding_ we can enhance machine agents by way of _inference_. But I'll save that for a future post. -- @mamund 
+> The good news is that, even without **understanding** we can enhance machine agents by way of **inference**. But I'll save that for a future post. -- @mamund 
 
 ### Leveraging Recognition
-The kind of experiments I'm working on with the [AMEE Project](http://amee-project.github.io) are the ones that leverage an agent's ability to recognize elements in the environment and, when appropriate, act on those elements. That means designing and implementing agents that have the ability to recognize things. That is, the ability to "see again" things it already knows about.  
+The kind of experiments I'm working on with the [AMEE Project](http://amee-project.github.io) are the ones that leverage an agent's ability to recognize elements in the environment and, when appropriate, act on those elements. That means designing and implementing agents that have the ability to recognize things. That is, the ability to "see again" things it already knows about. 
+
+That means I'm desgning and building more than just agents, I am also creating vocabularies (sometimes called _ontologies_). These vocabularies act as the engine of the agent. They provide the  _a priori_ information agents need in order to be successful in an environment -- in order to recognize trhings.
+
+And that's an important step. Creating environments that can contain recognizable elements and agents can that both recognize and act on those elements is what the AMEE Project is about. However, recognition is only part of the story. Questions like "How does an agent recognize something?" and "How does an agent know what to do once it recognizes things?" are all key to moving beyond static programs and toward programs that can act on their own -- that operate as autonomous agents.
+  

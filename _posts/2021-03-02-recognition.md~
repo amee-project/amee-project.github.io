@@ -30,5 +30,6 @@ That means I'm desgning and building more than just agents, I am also creating v
 
 And that's an important step. Creating environments that can contain recognizable elements and agents can that both recognize and act on those elements is what the AMEE Project is about. However, recognition is only part of the story. Questions like "How does an agent recognize something?" and "How does an agent know what to do once it recognizes things?" are all key to moving beyond static programs and toward programs that can act on their own -- that operate as autonomous agents.
   
+  
  -- @mamund 
    

@@ -4,7 +4,9 @@ title: Links
 permalink: /links/
 ---
 
-### Links to related materials
+### Related materials
+
+Below are a set of talks I've delivered over the years on the general topic of autonomous agents on the Web.
 
  * [From Steve Austin to Peter Norvig: Engineering AMEE, the Simple Autonomous Agent](http://amundsen.com/talks/2021-02-dagstuhl/index.html) (2021)
  * [Bots on the Net: The Good, The Bad, and the Future](http://amundsen.com/talks/2018-09-webexpo/index.html) (2018)

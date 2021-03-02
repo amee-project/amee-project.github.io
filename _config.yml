@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+# added by mamund
+future: false
+show_drafts: false

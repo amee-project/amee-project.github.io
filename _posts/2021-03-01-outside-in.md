@@ -15,13 +15,13 @@ Instead, my background is firmly planted in the "business computing" world; all 
 
 ## Looking In
 
-A little over ten years ago, I published one of my agent experiments -- the (http://amundsen.com/media-types/maze/)[Maze+XML] media type, along with a (http://amundsen.com/examples/misc/maze-client.html)[working server and a couple client apps]. I continued to play around with that design (and a few others). That project, and a related one I used to describe virtual environments ((https://tools.ietf.org/html/draft-amundsen-richardson-foster-alps-06)[ALPS]) was even featured in a book I wrote with Leonard Richardson ((http://restfulwebapis.com/)[RESTful Web APIs]). 
+A little over ten years ago, I published one of my agent experiments -- the [Maze+XML](http://amundsen.com/media-types/maze/) media type, along with a [working server and a couple client apps](http://amundsen.com/examples/misc/maze-client.html). I continued to play around with that design (and a few others). That project, and a related one I used to describe virtual environments ([ALPS](https://tools.ietf.org/html/draft-amundsen-richardson-foster-alps-06)) was even featured in a book I wrote with Leonard Richardson ([RESTful Web APIs](http://restfulwebapis.com/)). 
 
 I've always enjoyed working on these kinds of projects and continue to do so. But in 2018 things took an unexpected turn.
 
 ## We're Not In Kansas
 
-I also make occasional excursions into the academic world by attending and sometimes contributing to events like (http://ws-rest.org/)[WS-REST], (http://2013.eswc-conferences.org/program/workshops.html)[SALAD-2013] at (http://2013.eswc-conferences.org/)[EWSC], (http://www.hyperagents.org/program/)[HyperAgents2019] at (https://www2019.thewebconf.org/workshops-and-tutorials)[The Web Conf], and -- most recently -- (https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072)[Autonomous Agents on the Web (2021)] at (https://www.dagstuhl.de/)[Schloss Dagstuhl].
+I also make occasional excursions into the academic world by attending and sometimes contributing to events like [WS-REST](http://ws-rest.org/), [SALAD-2013](http://2013.eswc-conferences.org/program/workshops.html) at [EWSC](http://2013.eswc-conferences.org/), [HyperAgents2019](http://www.hyperagents.org/program/) at [The Web Conf](https://www2019.thewebconf.org/workshops-and-tutorials), and -- most recently -- [Autonomous Agents on the Web (2021)](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072) at [Schloss Dagstuhl](https://www.dagstuhl.de/).
 
 It was at this last event, I unvieled an updated version of the virtual maze agent and it was, to my surprise, well-received and a topic of continued conversation.  This last experience encouraged me to gather much of the content I've generated on this topic into a series of demos and slide sets. And that's what you see published here.
 

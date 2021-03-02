@@ -23,7 +23,7 @@ I've always enjoyed working on these kinds of projects and continue to do so. Bu
 
 I also make occasional excursions into the academic world by attending and sometimes contributing to events like [WS-REST](http://ws-rest.org/), [SALAD-2013](http://2013.eswc-conferences.org/program/workshops.html) at [EWSC](http://2013.eswc-conferences.org/), [HyperAgents2019](http://www.hyperagents.org/program/) at [The Web Conf](https://www2019.thewebconf.org/workshops-and-tutorials), and -- most recently -- [Autonomous Agents on the Web (2021)](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072) at [Schloss Dagstuhl](https://www.dagstuhl.de/).
 
-It was at this last event, I unvieled an updated version of the virtual maze agent and it was, to my surprise, well-received and a topic of continued conversation.  This last experience encouraged me to gather much of the content I've generated on this topic into a series of demos and slide sets. And that's what you see published here.
+It was at this last event where, I unvieled an updated version of the virtual maze agent and it was well-received and a topic of continued conversation.  That experience encouraged me to gather much of the content I've generated on this topic into a series of demos and slide sets. And that's what you see published here.
 
 ## Srsly?
 

@@ -3,7 +3,7 @@ layout: post
 title: Recognition vs. Understanding
 ---
 
-When designing and implementing autonomous agents, it is important to keep in mind that _recognition_ is not the same as _understanding_. 
+_When designing and implementing autonomous agents, it is important to keep in mind that **recognition** is not the same as **understanding**_. 
 
 ## Recognition
 The definition of _recognition_ is "identification of someone or something from previous encounters or knowledge." The etomology of the word is from the Latin "to know again". Recognizing things like commands in programs or hyperlinks in web documents is essential for an agent to accomplish an action. 

@@ -28,7 +28,9 @@ For me, this talk about signifiers and affordances sounds quite a bit like my re
 
 The ability to interact with the signifier brings us to the affordance that signifier represents to each person (or agent). To make this technically simple, I might code a software agent to look for `HTTP LINK` signifiers and, when one is found, to "activate" that `LINK`. The activation requires an affordance, that agent needs to "know" what to do in order to activate it (e.g. find the URL value associated with the sign and dereference that URL using an `HTTP GET` request).  
 
-We need to code agents to recognize signs and, when appropriate activate the affordance.
+We need to code agents to recognize signs and then, when appropriate, activate the affordance.
+
+For more on signifiers, see ["Signifiers & Affordances in Digital Product Design: What they are & why you should know them"](https://blog.usejournal.com/signifiers-affordances-in-digital-product-design-what-they-are-why-you-should-know-them-73c6ca3a1eac)
 
 -- @mamund
 

@@ -1,0 +1,32 @@
+I"�<p><em>I often use the word <strong>affordance</strong> to describe elements of an environment with which agents and interact. Donald Norman says we should stop doing that.</em></p>
+
+<p>For quite a while, I’ve been talking about the importance of including <em>affordances</em> in message responses from API servers. In API responses, affordances are links and forms that contain not only recognizable identifiers like <code class="language-plaintext highlighter-rouge">create</code> and <code class="language-plaintext highlighter-rouge">edit</code>. They also include important metadata like the associated URL, HTTP method, and details on what arguments to pass and response to expect. Essentially, affordances are instructions on what ‘next steps’ are available and how to invoke them.</p>
+
+<h2 id="i-like-affordances">I Like Affordances</h2>
+<p>I like designing with affordances because I can then teach agents (API consumers) to recognize and invoke actions as they appear. That means I don’t need to code agents to know a fixed set of URLs, methods, and parameters details since those instructions will appear with the affordance shows up in responses. It also means I don’t have to code the agent to have a fixed sequence of actions and can just code the client app to invoke the recognized actions whenever they show up in the responses.</p>
+
+<p>These last few details means that the agent can more easily adapt to minor changes in the workflow of the target service, too.</p>
+
+<p>All good things, right?</p>
+
+<p>Well…</p>
+
+<h2 id="donald-norman">Donald Norman</h2>
+<p>According to human-computer interaction guru and author of the book <a href="https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things">“The Design of Everyday Things”</a>, <a href="https://twitter.com/jnd1er">Donald Norman</a>, this focus on affordances as <em>things</em> agents use to solve problems is not quite accurate. It turns out agents of all types, including humans, operate on a slightly different model. One that revolves not around affordances but around <em>signifiers</em>.</p>
+
+<p>In his 2018 article, <a href="https://jnd.org/signifiers_not_affordances/">“Signifiers, Not Affordances”</a> Norman points out that, in the real world, agents recognize <em>signs</em> in the environment and use these signs as clues or indicators on what actions are possible. He even provides examples of <em>accidental</em> affordances – ones that were not planned by any designer. These are often social cues or context-specific indicators.</p>
+
+<p>What I’ve learned from Norman is that, as participants, we don’t all see the same signifiers. Sometimes I miss “the obvious opportunity” in the room!  And, as designers, we don’t control all the signifiers in the space, either. Some signifiers are transient (whether someone brings snacks to share in the workshop session, etc.). And some signifiers are <em>emergent</em> (as the number of workshop attendees grows, the interaction dynamics change, for example).</p>
+
+<h2 id="recognizing-signifiers-understanding-affordances">Recognizing Signifiers, Understanding Affordances</h2>
+<p>For me, this talk about signifiers and affordances sounds quite a bit like my recent post about the difference between <em>understanding</em> and <em>recognition</em>. The first step is recognizing something. And what we recognize is a signifier. Once we recognize the sign, we might be able to interact with it in some way.</p>
+
+<p>The ability to interact with the signifier brings us to the affordance that signifier represents to each person (or agent). To make this technically simple, I might code a software agent to look for <code class="language-plaintext highlighter-rouge">HTTP LINK</code> signifiers and, when one is found, to “activate” that <code class="language-plaintext highlighter-rouge">LINK</code>. The activation requires an affordance, that agent needs to “know” what to do in order to activate it (e.g. find the URL value associated with the sign and dereference that URL using an <code class="language-plaintext highlighter-rouge">HTTP GET</code> request).</p>
+
+<p>We need to code agents to recognize signs and then, when appropriate, activate the affordance.</p>
+
+<p>For more on signifiers, see <a href="https://blog.usejournal.com/signifiers-affordances-in-digital-product-design-what-they-are-why-you-should-know-them-73c6ca3a1eac">“Signifiers &amp; Affordances in Digital Product Design: What they are &amp; why you should know them”</a></p>
+
+<p>– @mamund</p>
+
+:ET

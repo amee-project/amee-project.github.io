@@ -6,7 +6,7 @@ permalink: /links/
 
 ### Books to read:
 
-Books I've found inspiring, instructuve, helpful.
+Books I've found inspiring, instructive, helpful.
 
  * ["Ant Encounters: Interaction Networks and Colony Behavior"](https://www.google.com/books/edition/Ant_Encounters/sjdAmAEACAAJ?hl=en) by Deborah M. Gordon. (2010)
  * ["Ants at Work"](https://www.google.com/books/edition/Ants_at_Work/Ic8EAePwVxUC?hl=en) By Deborah M. Gordon (2000)

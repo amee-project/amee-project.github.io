@@ -4,9 +4,16 @@ title: Links
 permalink: /links/
 ---
 
-### Related materials
+### Books to read:
 
-Below are a set of talks I've delivered over the years on the general topic of autonomous agents on the Web.
+Books I've found inspiring, instructuve, helpful.
+
+ * ["Ant Encounters: Interaction Networks and Colony Behavior"](https://www.google.com/books/edition/Ant_Encounters/sjdAmAEACAAJ?hl=en) by Deborah M. Gordon. (2010)
+ * ["Ants at Work"](https://www.google.com/books/edition/Ants_at_Work/Ic8EAePwVxUC?hl=en) By Deborah M. Gordon (2000)
+ 
+### Presentations
+ 
+Talks I've delivered over the years on the general topic of autonomous agents on the Web.
 
  * [From Steve Austin to Peter Norvig: Engineering AMEE, the Simple Autonomous Agent](http://amundsen.com/talks/2021-02-dagstuhl/index.html) (2021)
  * [Bots on the Net: The Good, The Bad, and the Future](http://amundsen.com/talks/2018-09-webexpo/index.html) (2018)

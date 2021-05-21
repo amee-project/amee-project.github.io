@@ -1,0 +1,29 @@
+I" <p><em>The AMEE Project is part of an international challenge to create autonomous agents on the web</em></p>
+
+<h2 id="atac">ATAC</h2>
+<p>The <a href="https://all-agents-challenge.github.io/atac2021/">All the Agents Challenge</a> (ATAC) is an event in conjunction with the <a href="https://iswc2021.semanticweb.org/">International Semantic Web Conference</a> (ISWC) 2021 (October 24-28, 2021). This is an open challenge “to build agents that do things on Linked Data.” It is an opportunity to build something that actually works in a cool and supportive community. I highly encourage everyone working the autonomy space to check it out.</p>
+
+<p>The key dates are:</p>
+
+<ul>
+  <li>Release of environments: May 22, 2021</li>
+  <li>Submission deadline: July 22, 2021</li>
+  <li>Notifications: August 27, 2021</li>
+  <li>Challenge presentations: October 24-28, 2021</li>
+</ul>
+
+<p>The criteria and other details are listed on the <a href="https://all-agents-challenge.github.io/atac2021/">ATAC 2021 home page</a>.</p>
+
+<h2 id="amee-project-and-atac">AMEE Project and ATAC</h2>
+<p>I’m also honored that the ATAC committe selected the AMEE Project as one of the challenge environments! AMEE was first published in conjunction with the Feburary 2021 Dagstuhl seminar <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072">“Autonomous Agents on the Web”</a> and some of the same people who hosted that event are involved in the ATAC, too.</p>
+
+<p>As one of the featured environments, the ATAC team has a stable fork of the RDF implementation of the AMEE <a href="https://github.com/all-agents-challenge/maze-server">Maze Server</a>.</p>
+
+<h2 id="contributing-to-the-amee-project">Contributing to the AMEE Project</h2>
+<p>If you create an agent or if you fork the server and create something new, I’d love to hear about it. Feel free to submit any PRs to the <a href="https://github.com/amee-project">existing repos</a> and/or ping me if you have a standalone project repo that I can list here at the AMEE Project.</p>
+
+<p>Good luck!</p>
+
+<p>– @mamund</p>
+
+:ET
